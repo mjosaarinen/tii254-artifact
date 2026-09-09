@@ -79,7 +79,8 @@ known support and each candidate value of the omitted point, the finisher:
 6. completes the remaining support with known-polynomial linear algebra; and
 7. verifies the complete 96-by-223 public row space.
 
-The successful branch examined 1,727 numerator instances, found 152 degree-12
-factor candidates, admitted 23 by the restricted row-space test, and retained
-one after the semantic screens.  Nine completion steps produced the equivalent
+The successful branch examined 1,727 numerator instances and found 152 degree-12
+factor candidates.  All 152 passed the restricted row-space test; the semantic
+screens rejected 151, leaving one survivor.  The search stopped at the first
+verified key.  Nine completion steps produced the equivalent
 key in `data/recovered_key.json`.

@@ -1,0 +1,12 @@
+import ProjectedKernelRigidity
+
+#print axioms ProjectedKernelRigidity.CoordinateInformationSet.isCompl
+#print axioms ProjectedKernelRigidity.CoordinateInformationSet.remove_preserves_equation
+#print axioms ProjectedKernelRigidity.ZeroPrimaryReachability.full_coker_visibility_contains_kernel
+#print axioms ProjectedKernelRigidity.ZeroPrimaryReachability.shifted_hankel_rank_le_operator
+#print axioms ProjectedKernelRigidity.ZeroPrimaryReachability.replayed_panel_eq_kernel_of_upper_bound
+#print axioms ProjectedKernelRigidity.RelativeAnchor.relative_completion
+#print axioms ProjectedKernelRigidity.RelativeAnchor.canonical_le_pairCore
+#print axioms TwoAnchorPairCore.dualAnnihilator_pairCore
+#print axioms TwoAnchorPairCore.pairCore_eq_iff
+#print axioms TwoAnchorPairCore.pairCore_eq_of_witness

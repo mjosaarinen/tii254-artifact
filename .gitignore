@@ -1,6 +1,7 @@
 build/
 cuda/bin/
 rust/target/
+lean/.lake/
 **/__pycache__/
 *.pyc
 *.pi
