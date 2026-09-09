@@ -1,0 +1,11 @@
+build/
+cuda/bin/
+rust/target/
+**/__pycache__/
+*.pyc
+*.pi
+*.single.data
+*.aux
+*.bin
+*.u32le
+*.log

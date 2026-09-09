@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = ["holdout_supplier_worker", "original_ej_replay"]
+
+[profile.release]
+lto = "thin"
+codegen-units = 1
+overflow-checks = true

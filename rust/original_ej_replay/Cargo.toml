@@ -1,0 +1,16 @@
+[package]
+name = "tii254-d6-original-ej-replay"
+version = "0.1.0"
+edition = "2024"
+license = "GPL-2.0-or-later"
+
+[dependencies]
+holdout-supplier-worker = { path = "../holdout_supplier_worker" }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+sha2 = "0.10"
+
+[profile.release]
+lto = "thin"
+codegen-units = 1
+overflow-checks = true
