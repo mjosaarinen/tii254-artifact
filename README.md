@@ -4,20 +4,18 @@ This repository accompanies the paper:
 
 > Markku-Juhani O. Saarinen.  
 > **Two-Anchor Holdout/Hermite: Solving the TII-254 McEliece Key Recovery Challenge**.  
-> IACR Cryptology ePrint Archive, Report 2026/XXXX, 2026.  
-> <https://eprint.iacr.org/2026/XXXX>
-
-The ePrint report number is pending; `2026/XXXX` is a placeholder.
+> IACR Cryptology ePrint Archive, Report 2026/1986, 2026.  
+> <https://eprint.iacr.org/2026/1986>
 
 Local preprint copy: [tii254.pdf](tii254.pdf).
 
 ```bibtex
-@misc{cryptoeprint:2026/XXXX,
+@misc{cryptoeprint:2026/1986,
       author = {Markku-Juhani O. Saarinen},
       title = {Two-Anchor Holdout/Hermite: Solving the {TII-254} {McEliece} Key Recovery Challenge},
-      howpublished = {Cryptology {ePrint} Archive, Paper 2026/XXXX},
+      howpublished = {Cryptology {ePrint} Archive, Paper 2026/1986},
       year = {2026},
-      url = {https://eprint.iacr.org/2026/XXXX}
+      url = {https://eprint.iacr.org/2026/1986}
 }
 ```
 
